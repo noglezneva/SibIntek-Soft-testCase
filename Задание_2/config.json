@@ -1,0 +1,5 @@
+{
+    "numbers": [1, 2, 8, 4, 5],
+    "url": "http://example.com",
+    "log_file": "log.txt"
+  }

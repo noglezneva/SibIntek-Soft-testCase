@@ -1,0 +1,14 @@
+2023/11/23 21:31:02 Sum of numbers: 15
+2023/11/23 21:31:02 HTTP request to http://example.com successful
+2023/11/23 21:31:24 Sum of numbers: 15
+2023/11/23 21:31:24 HTTP request to http://example.com successful
+2023/11/23 21:31:39 Sum of numbers: 20
+2023/11/23 21:31:39 HTTP request to http://example.com successful
+2023/11/23 23:05:33 Sum of numbers: 20
+2023/11/23 23:05:33 HTTP request to http://example.com successful
+2023/11/23 23:12:26 Sum of numbers: 20
+2023/11/23 23:12:26 HTTP request to http://example.com successful
+2023/11/23 23:13:14 Sum of numbers: 20
+2023/11/23 23:13:14 HTTP request to http://example.com successful
+2023/11/23 23:13:29 Sum of numbers: 20
+2023/11/23 23:13:29 HTTP request to http://example.com successful

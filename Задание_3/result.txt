@@ -1,0 +1,9 @@
+Sum: 15
+InputData: {
+  "numbers": [1, 2, 3, 4, 5],
+  "url": "http://example.com",
+  "log_file": "app.log",
+  "output_file": "result.txt",
+  "data_source": "stdin",
+  "input_file": ""
+}

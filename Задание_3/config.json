@@ -1,0 +1,8 @@
+{
+"numbers": [1, 2, 3, 4, 5],
+"url": "http://example.com",
+"log_file": "log.txt",
+"output_file": "result.txt",
+"data_source": "file",
+"input_file": "input.txt"
+}
